@@ -1,4 +1,4 @@
-### Hey Body <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20px" />
+### Hey , im mohammad a simple programmer.
 
 [![](https://github-readme-stats.vercel.app/api?username=DevTomy&show_icons=true&theme=ayu-mirage&hide=issues)](https://github.com/DevTomy/)
 
