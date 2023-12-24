@@ -3,4 +3,3 @@
 
 - ⛏️ I’m currently working on [ChiselBox](https://github.com/DevTomy/ChiselBox) .
 - 📫 Telegram: [@DevTomy](https://t.me/DevTomy) 
-- 📷 Instagram: [DevTomy](https://instagram.com/DevTomy)
