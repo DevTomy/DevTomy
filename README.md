@@ -1,6 +1,6 @@
 ### Powerful just like my projects :D
 
 
-- ⛏️ I’m currently working on [DinoPanel](https://github.com/DevTomy) (Private) .
+- ⛏️ I’m currently working on [ChiselBox](https://github.com/DevTomy/ChiselBox) .
 - 📫 Telegram: [@DevTomy](https://t.me/DevTomy) 
 - 📷 Instagram: [DevTomy](https://instagram.com/DevTomy)
